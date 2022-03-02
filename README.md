@@ -1,6 +1,6 @@
 ## Hi there 👋
 <a href="https://twitter.com/Tiltzada" class="button big">Twitter</a>   
-<a href="https://www.linkedin.com/in/carlos/" class="button big">Linkedin</a>
+<a href="https://www.linkedin.com/in/carlos-alberto-filho/" class="button big">Linkedin</a>
 
 - 🔭 I’m currently working on Nelogica
 - 🌱 I’m currently learning TypeScript
