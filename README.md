@@ -1,6 +1,6 @@
 ## Hi there 👋
-<a href="https://twitter.com/Tiltzada" class="button big">Twitter</a>   
-<a href="https://www.linkedin.com/in/carlos-alberto-filho/" class="button big">Linkedin</a>
+<a href="https://twitter.com/Tiltzada"  target="_blank" class="button big">Twitter</a>   
+<a href="https://www.linkedin.com/in/carlos-alberto-filho/"  target="_blank" class="button big">Linkedin</a>
 
 - 🔭 I’m currently working on Nelogica
 - 🌱 I’m currently learning TypeScript
@@ -8,11 +8,16 @@
 
 # 🧍 Tilteee
 ####         🎓 Computer Science student
-#### 🎓 Diploma in computer
 
 #  💻 Expertise
-#### ✔️ Python Developer
-#### ✔️ Cyber security 
-#### ✔️ Data science
-#### ✔️ machine learning
+#### ✔️ Web Development
+#### ✔️ FullStack Developer
+#### ✔️ JavaScript
+#### ✔️ Nodejs
+#### ✔️ PHP
+#### ✔️ Laravel
+#### ✔️ ASP.NET
+
+
+
 
