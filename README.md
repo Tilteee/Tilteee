@@ -2,12 +2,11 @@
 <a href="https://twitter.com/Tiltzada"  target="_blank" class="button big">Twitter</a>   
 <a href="https://www.linkedin.com/in/carlos-alberto-filho/"  target="_blank" class="button big">Linkedin</a>
 
-- 🔭 I’m currently working on Novakio
-- 🌱 I’m currently learning TypeScript
-- 🌱 I’m currently learning Vue3
+- 🔭 I’m currently working on Aeroespacial
+- 🌱 I’m currently learning GCP
+- 🌱 I’m currently learning Native mobile development
 
 # 🧍 Tilteee
-####         🎓 Computer Science student
 
 #  💻 Expertise
 #### ✔️ Web Development
@@ -17,6 +16,7 @@
 #### ✔️ PHP
 #### ✔️ Laravel
 #### ✔️ ASP.NET
+#### ✔️ AWS
 
 
 
